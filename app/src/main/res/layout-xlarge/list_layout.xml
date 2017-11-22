@@ -4,7 +4,7 @@
 
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/night">
+    android:background="#000">
 
     <fragment android:name="com.example.vai9105.finalplayer.SongTitleFragment"
         android:id="@+id/title_fragment"
